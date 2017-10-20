@@ -1,0 +1,21 @@
+What happens when you initialize a repository? Why do you need to do it?
+我的理解是，如果原先有.git文件，则该文件的内容被初始化。如果没有，则建立个新的文件。
+这样做的目的？减少自己的工作量吧，不让原有的记录干扰自己。前提是目前的版本无需任何改动。
+
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
